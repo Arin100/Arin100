@@ -1,6 +1,6 @@
 ### Hi there, I'm Arin - aka [MOJO] 
 
-![Alt Text](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626.gif)
+![Alt Text](https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif)
 
 
 ## I'm a student, learner!!
