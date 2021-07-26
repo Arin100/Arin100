@@ -1,5 +1,5 @@
 ### Hi there, I'm Arin - aka [MOJO] 
-
+<br>
 ![Alt Text](https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif)
 <img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="70" height="70" />
 
