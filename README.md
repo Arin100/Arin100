@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="70" height="70" />
 
 
-## I'm a student, learner!!
+<i>## I'm a student, learner!!</i>
 
 
 - 🌱 I’m currently learning everything 🤣
