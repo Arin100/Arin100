@@ -8,8 +8,8 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Future goals having some fun :)
-- ⚡ Fun fact: I love to play guitar, games and football
+- 🥅 Future goals having some fun 😺
+- ⚡ Fun fact: I love to play guitar, games and football 🎸 🎮 ⚽
 
 
 
