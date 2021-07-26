@@ -1,7 +1,7 @@
 ### Hi there, I'm Arin - aka [MOJO] 
 
 ![Alt Text](https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif)
-<img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="60" height="60" />
+<img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="80" height="80" />
 
 
 ## I'm a student, learner!!
