@@ -4,9 +4,9 @@
 <img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="70" height="70" />
 
 
-<i>## I'm a student, learner!!</i>
-![](https://komarev.com/ghpvc/?username=Arin100&color=green)
+<i>## I'm a student, learner!!</i><br />
 
+![](https://komarev.com/ghpvc/?username=Arin100&color=red)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Future goals having some fun 😺
