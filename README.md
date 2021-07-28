@@ -5,6 +5,7 @@
 
 
 <i>## I'm a student, learner!!</i>
+![](https://komarev.com/ghpvc/?username=Arin100&color=green)
 
 
 - 🌱 I’m currently learning everything 🤣
