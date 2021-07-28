@@ -12,8 +12,6 @@
 - 🥅 Future goals having some fun 😺
 - ⚡ Fun fact: I love to play guitar, games and football 🎸 🎮 ⚽
 
-![Arin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arin100&theme=dark&show_icons=true)
-
 
 <h3> 🧰 Languages and Tools:<h3 />
 <p align="left">
