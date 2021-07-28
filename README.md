@@ -1,4 +1,4 @@
-### Hi there, I'm Arin chowdhury - aka [MOJO] 
+### Hi 👋 there, I'm Arin chowdhury - aka [MOJO] 
 
 ![Alt Text](https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif)
 <img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="70" height="70" />
