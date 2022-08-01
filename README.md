@@ -1,4 +1,4 @@
-### Hi 👋 there, I'm Arin chowdhury - aka [MOJO] 
+### Hi 👋 there, I'm Arin chowdhury
 
 ![Alt Text](https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif)
 <img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="70" height="70" />
@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Arin100&color=red)
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently studying
 - 🥅 Future goals having some fun 😺
 - ⚡ Fun fact: I love to play guitar, games and football 🎸 🎮 ⚽
 
