@@ -1,7 +1,7 @@
 ### Hi 👋 there, I'm Arin chowdhury
 
 ![Alt Text](https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif)
-<img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="70" height="70" />
+<img src="https://media.giphy.com/media/QTaNqfIczYL0iY4udO/giphy.gif" width="50" height="50" />
 
 
 <i>## I'm a student, learner!!</i>🙇<br />
